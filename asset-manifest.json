@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ExpressThoughts_Frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/ExpressThoughts_Frontend/static/js/main.19a0c631.js",
+    "main.js": "/ExpressThoughts_Frontend/static/js/main.ae22f378.js",
     "static/js/787.cda612ba.chunk.js": "/ExpressThoughts_Frontend/static/js/787.cda612ba.chunk.js",
     "index.html": "/ExpressThoughts_Frontend/index.html",
     "main.e6c13ad2.css.map": "/ExpressThoughts_Frontend/static/css/main.e6c13ad2.css.map",
-    "main.19a0c631.js.map": "/ExpressThoughts_Frontend/static/js/main.19a0c631.js.map",
+    "main.ae22f378.js.map": "/ExpressThoughts_Frontend/static/js/main.ae22f378.js.map",
     "787.cda612ba.chunk.js.map": "/ExpressThoughts_Frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.19a0c631.js"
+    "static/js/main.ae22f378.js"
   ]
 }

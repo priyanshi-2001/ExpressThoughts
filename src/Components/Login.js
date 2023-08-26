@@ -51,7 +51,7 @@ const Login = () => {
             <div > Email </div>
             <div style={{marginRight:'80px'}}>
             <TextField
-            placeholder='Email'
+            placeholder='Enter UserName'
             name="email"
             value={email}
             onChange={(e)=>{setEmail(e.target.value)}}

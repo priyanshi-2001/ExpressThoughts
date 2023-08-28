@@ -48,7 +48,7 @@ const Login = () => {
       flexDirection:'column',
       alignItems:'center',backgroundColor:'#60B9EA'}}>
       <div >
-            <div > Email </div>
+            <div > Username </div>
             <div style={{marginRight:'80px'}}>
             <TextField
             placeholder='Enter UserName'
